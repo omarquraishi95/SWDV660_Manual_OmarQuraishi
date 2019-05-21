@@ -1,1 +1,1 @@
-print(This is another message to test)
+print("This is another message to test")
